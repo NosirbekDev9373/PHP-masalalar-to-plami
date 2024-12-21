@@ -8,7 +8,7 @@
 <body> 
 	<?php
 
-for ($i = 1; $i <= 21; $i++) {
+for ($i = 1; $i <= 28; $i++) {
 	 echo "<a href='../$i.php'>begin$i<br></a>";
 }
 ?>
