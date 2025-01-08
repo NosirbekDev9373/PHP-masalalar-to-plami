@@ -7,7 +7,7 @@
 </head>
 <body>
 	<?php 
-	for ($i = 1; $i <= 30; $i++) {
+	for ($i = 1; $i <= 40; $i++) {
 		echo "<a href='../$i.php'>boolean$i<br> </a>";
 	}
 	 ?>
