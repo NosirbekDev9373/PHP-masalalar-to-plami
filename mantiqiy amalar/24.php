@@ -18,7 +18,7 @@ function qiymat($a, $b, $c) {
 // Misol uchun qiymatlarni tekshirish
 $a = 9; // A qiymati
 $b = -11; // B qiymati
-$c = 23; // C qiymati
+$c = -23; // C qiymati
 
 echo qiymat($a, $b, $c);
 

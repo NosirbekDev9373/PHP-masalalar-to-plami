@@ -9,5 +9,5 @@ $natija = (($a == $b) != $c) || (($b == $c) != $a) || (($c == $a) != $b);
 
 var_dump($natija); 
 
-
+// ishladi kod
  ?>

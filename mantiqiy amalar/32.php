@@ -7,10 +7,6 @@ $c = 21;
 
 $natija = (pow($a, 2) + pow($b, 2) == pow($c, 2));
 var_dump($natija);
-/*
-if (pow($a, 2) + pow($b, 2) = pow($c, 2)) {
-	echo "teng yonli uchburchak";
-}
-*/
+
 
  ?>
