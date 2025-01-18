@@ -6,4 +6,4 @@ for ($i = 1; $i <= $n; $i++) {
 	  
 }
 echo "yigindimiz S = $yigindi";
- ?>
+ ?> 
